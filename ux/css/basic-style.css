@@ -207,6 +207,16 @@ footer ul{
 	margin:0 0 0 8%;
 }
 
+button {
+	background:#0099ff; 
+	border-radius:7px; 
+	color:#fff;
+	display:block;	
+	margin:10px 15px 10px 0; 
+	padding:10px;
+	text-decoration:none;
+}
+
 a.buttonlink{ 
 	background:#0099ff; 
 	border-radius:7px; 
